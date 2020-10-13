@@ -1,5 +1,5 @@
 ---
-title: 'Lucie Pigné '
+title: Curriculum Vitae
 description: '"What you do today can improve all your tomorrow."'
 featured_image: "/images/img_2063.jpg"
 
